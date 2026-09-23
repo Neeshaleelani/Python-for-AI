@@ -2,4 +2,9 @@ materials
 quiz
 __pycache__
 .DS_Store
+<<<<<<< HEAD
 venv
+=======
+.venv
+*_Solutions.ipynb
+>>>>>>> 093a1f6c7574e93ca801f729abcc3d4e0348cd4a

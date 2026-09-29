@@ -7,4 +7,9 @@ venv
 =======
 .venv
 *_Solutions.ipynb
+<<<<<<< HEAD
 >>>>>>> 093a1f6c7574e93ca801f729abcc3d4e0348cd4a
+=======
+*_Excercise.ipynb
+# exercises
+>>>>>>> 44e9008b28ff0831fba48d91c3c9ec0d42f12de3
